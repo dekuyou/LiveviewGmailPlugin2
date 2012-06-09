@@ -1,0 +1,10 @@
+<PreferenceScreen	xmlns:android="http://schemas.android.com/apk/res/android" android:order="10" android:title="poor Gmail Notifier">
+	
+	<!--
+		Add your additional preferences here.
+	-->
+    <CheckBoxPreference android:order="10" android:title="poor Gmail notify" android:key="gmail"></CheckBoxPreference>
+
+
+
+</PreferenceScreen>
